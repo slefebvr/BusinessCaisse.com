@@ -1,0 +1,12 @@
+{
+  "name": "workflow",
+  "version": "0.0.1",
+  "description": "Exemple de site utilisant les workflows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Stephane Lefebvre",
+  "license": "ISC"
+}
